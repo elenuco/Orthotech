@@ -1,0 +1,16 @@
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\bin\Debug\net5.0\deferentNumbers.exe
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\bin\Debug\net5.0\deferentNumbers.deps.json
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\bin\Debug\net5.0\deferentNumbers.runtimeconfig.json
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\bin\Debug\net5.0\deferentNumbers.runtimeconfig.dev.json
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\bin\Debug\net5.0\deferentNumbers.dll
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\bin\Debug\net5.0\deferentNumbers.pdb
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.csproj.AssemblyReference.cache
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.AssemblyInfoInputs.cache
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.AssemblyInfo.cs
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.dll
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\refint\deferentNumbers.dll
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.pdb
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\deferentNumbers.genruntimeconfig.cache
+C:\Users\UFG\Documents\Guia5a\deferentNumbers\obj\Debug\net5.0\ref\deferentNumbers.dll
