@@ -8,5 +8,6 @@
         public int BookPublicationYear { get; set; }
         public BookCategoriesModel Category { get; set; }
         public int IdCategory { get; set; }
+        public string CategoryName { get; set; }
     }
 }

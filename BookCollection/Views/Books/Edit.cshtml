@@ -1,4 +1,4 @@
-﻿@model BookCollection.Models.BookModel
+@model BookCollection.Models.BookModel
 
 @{
     ViewData["Title"] = "Edit";
@@ -22,6 +22,16 @@
                 <label asp-for="BookAuthor" class="control-label"></label>
                 <input asp-for="BookAuthor" class="form-control" />
                 <span asp-validation-for="BookAuthor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookPublicationYear" class="control-label"></label>
+                <input asp-for="BookPublicationYear" class="form-control" />
+                <span asp-validation-for="BookPublicationYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCategory" class="control-label"></label>
+                <input asp-for="IdCategory" class="form-control" />
+                <span asp-validation-for="IdCategory" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="CategoryName" class="control-label"></label>
